@@ -10,3 +10,8 @@
 terraform
 **/.terraform/*
 crash.log
+
+
+
+.idea/*
+.idea
